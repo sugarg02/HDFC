@@ -1,0 +1,9 @@
+"VehicleID";"Vehicle_Class";"Vehicle_Make";"Vehicle_Model";"Capacity"
+1;"Class 1";"Ford";"Ranger";6000
+2;"Class 1";"Chevrolet";"Colorado";6000
+3;"Class 1";"Toyota";"Tacoma";6000
+4;"Class 3";"Ford";"F350";10000
+5;"Class 3";"Chevrolet";"Silverado";10000
+6;"Class 5";"Ford";"F650";20000
+7;"Class 5";"Kenworth";"T270";20000
+8;"Class 5";"Chevrolet";"Silverado 6500HD";20000
